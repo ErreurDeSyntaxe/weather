@@ -12,7 +12,7 @@ A website to search for the weather in a city.
 
 ### Live
 
-<a href='https://erreurdesyntaxe.github.io/full-stack-weather/'>Weather Report</a>
+<a href='https://erreurdesyntaxe.github.io/weather/'>Weather Report</a>
 
 ### Objective
 
